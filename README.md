@@ -13,6 +13,11 @@ Hi, I'm Sujal 👋<br><br>A passionate frontend developer learning React and <br
 ![](https://streak-stats.demolab.com/?user=SujalxCode&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SujalxCode&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
