@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sujal 👋<br><br>A passionate frontend developer learning React and <br>building web applications. I love coding, fitness, and <br>creating content. Currently focused on improving my <br>development skills and working on exciting projects.<br><br>🚀 HTML | CSS | JavaScript | React<br>🏋️ Fitness Enthusiast<br>🎥 Content Creator
+Hi, I'm Sujal 👋<br><br>A passionate frontend developer learning React and building web applications. I love coding, fitness, and creating content. Currently focused on improving my development skills and working on exciting projects.<br><br>🚀 HTML | CSS | JavaScript | React<br>🏋️ Fitness Enthusiast<br>🎥 Content Creator
 
 
 ## 🌐 Socials:
