@@ -3,7 +3,7 @@ Hi, I'm Sujal 👋<br><br>A passionate frontend developer learning React and bui
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sujal.sheria.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujal.now) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SujalWay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.sujal001@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sujal.sheria.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujal.now) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SujalWay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.sujal001@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
